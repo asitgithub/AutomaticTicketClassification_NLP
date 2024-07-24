@@ -1,4 +1,4 @@
-# Automatic-Ticket-Classification-NLP
+# Automatic Ticket Classification-NLP
 This NLP model, developed by Asit Kumar Singh, automatically categorizes customer complaints based on the product or service using advanced syntactical processing capabilities.
 
 ## Problem Statement
